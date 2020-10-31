@@ -1,0 +1,22 @@
+div.charla {
+    width: 60%;
+    height: 100px;
+    margin: 20px auto;
+    background-color: #449;
+    color: #fff;
+    padding: 15px;
+  }
+  
+  div.charla img.izquierda {
+    float: left;
+    margin-right: 15px;
+  }
+  
+  div.charla img.derecha {
+    float: right;
+    margin-left: 15px;
+  }
+  
+  div.reset {
+    clear: both;
+  }
